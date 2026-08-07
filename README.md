@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My namd is Jonathan Root
+## My name is Jonathan Root
 
 **As a Learning Experience Designer — I make technical things learnable.**
 
