@@ -2,7 +2,7 @@
 
 ## My namd is Jonathan Root
 
-** I am a Learning Experience Designer — I make technical things learnable.**
+**I am a Learning Experience Designer — I make technical things learnable.**
 
 Eight years teaching technical content to adult learners, and building the courses that teach it. Most instructional designers stop at what an authoring tool does natively; I extend Articulate Storyline with custom HTML, CSS, and JavaScript — GSAP 3D transforms, DOM-targeted interactions, embedded web objects — and debug it in the published output when it breaks.
 
