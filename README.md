@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## My name is Jonathan Root
+# Jonathan Root
 
 **As a Learning Experience Designer — I make technical things learnable.**
 
@@ -11,7 +9,7 @@ Currently SME on a web development certification program, and completing an M.S.
 **What I build**
 - Interactive eLearning that goes past the limits of the authoring tool
 - Technical curriculum for developers and career-changing engineers
-- The web infrastructure that hosts it
+- The site that hosts it — Astro/TypeScript/Tailwind on Vercel, serving five published Storyline and Rise builds from my own domain
 - **Open source** — merged documentation contributions to [Udacity's Intro to Programming curriculum](https://github.com/udacity/cd2073-intro-to-js-1-project-starter/pulls?q=author%3Ajaroot32+is%3Amerged)
 
 **Background** — front-end contract development (NetMotion Software, Boeing, Freeride Entertainment) · live instruction for international bootcamp cohorts (Masterschool, Udacity, Springboard, Chegg) · published microlearning on Rumie-Learn, distributed across 180+ countries
